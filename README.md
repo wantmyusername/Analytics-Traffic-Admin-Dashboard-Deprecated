@@ -1,3 +1,7 @@
+> **Consolidated → archived.** This repo was merged into the single archive
+> [**universal-analytics-fake-traffic-suite**](https://github.com/wantmyusername/universal-analytics-fake-traffic-suite).
+> It is archived and kept only for reference.
+
 # Analytics Traffic — Admin Dashboard — *Deprecated*
 
 > **Deprecated / historical code.** This is the admin dashboard of an old fake-traffic suite that targeted **Universal Analytics**, which was shut down on **July 1, 2023**. It no longer works and is kept only as a memory of what this once was. Not maintained, not to be used.
